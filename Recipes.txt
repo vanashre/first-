@@ -6,3 +6,6 @@ Welcome to kitchen
 kheer
 pasta
 rice
+beans
+pizza
+
